@@ -13,6 +13,6 @@
 <a href="https://www.leetcode.com/tarunmishra19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tarunmishra19" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshucse-19&show_icons=true&locale=en&layout=compact" alt="tarun-ridecell" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarun-ridecell&show_icons=true&locale=en&layout=compact" alt="tarun-ridecell" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshucse-19&show_icons=true&locale=en" alt="tarun-ridecell" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarun-ridecell&show_icons=true&locale=en" alt="tarun-ridecell" /></p>
